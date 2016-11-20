@@ -3,6 +3,11 @@ new branch.
 master add one line(master).
 =======
 new branch(newbranch).
+<<<<<<< HEAD
 >>>>>>> newbranch
 new is branch1.
 
+=======
+on new branch add one line.
+one line add to test git stash.
+>>>>>>> newbranch
