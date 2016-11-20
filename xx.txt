@@ -1,2 +1,6 @@
 new branch.
+<<<<<<< HEAD
 master add one line(master).
+=======
+new branch(newbranch).
+>>>>>>> newbranch
