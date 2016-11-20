@@ -1,3 +1,4 @@
 new branch.
 new branch(newbranch).
 on new branch add one line.
+one line add to test git stash.
