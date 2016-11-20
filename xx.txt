@@ -4,5 +4,5 @@ master add one line(master).
 =======
 new branch(newbranch).
 >>>>>>> newbranch
-new branch1.
+new is branch1.
 
